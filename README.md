@@ -22,6 +22,10 @@
 
 **TurboHit.js** is a developer-focused utility to **send bursts of GET requests** to any URL — **with full control over delay, total requests, and safety locks.**
 
+```bash
+npm i turbohit
+````
+
 ✅ Great for:
 - Backend performance testing
 - Caching warm-ups
@@ -47,6 +51,7 @@
 ---
 
 ## 🧠 How It Works
+
 
 ```bash
 # Basic usage (safe: only 1 request)
