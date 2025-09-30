@@ -13,7 +13,7 @@
 
 <p align="center">
   🚀 A powerful, ethical request refresher tool built with pure Node.js.  
-  💥 Hit URLs with confidence, control, and cool customizations.  
+  💥 Hit URLs with confidence, control, and cool customizations.   
 </p>
 
 ---
